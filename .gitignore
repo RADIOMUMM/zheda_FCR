@@ -1,0 +1,15 @@
+# Build artifacts
+*.exe
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# WorkBuddy
+.workbuddy/
+
+# Results
+fcr_results/
+*.xlsx
+*.png
